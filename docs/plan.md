@@ -8,3 +8,6 @@
 - Thứ 6: Học về ReactJS
 - Thứ 7: Làm dự án nhỏ với ReactJS
 - Chủ nhật: Ôn tập và nghỉ ngơi
+- Tìm hiểu thêm về git stash
+- Luyện tập giải quyết conflict
+- Chuẩn bị cho bài kiểm tra cuối kỳ
