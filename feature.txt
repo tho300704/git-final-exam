@@ -1,0 +1,5 @@
+# Mô tả tính năng A
+Đây là một tính năng rất quan trọng.
+Nó giúp người dùng có thể đăng nhập vào hệ thống.
+Cần phải được phát triển một cách cẩn thận.
+Dự kiến hoàn thành trong 2 ngày.
