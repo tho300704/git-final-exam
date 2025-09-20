@@ -1,3 +1,6 @@
 This file was created on GitHub.
 It demonstrates the web editor feature.
 Line 3.
+
+This line was added locally.
+Another local line.
