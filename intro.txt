@@ -1,0 +1,15 @@
+Giới thiệu về bản thân:
+Tôi là một sinh viên đam mê công nghệ.
+Tôi thích tìm tòi và học hỏi những kiến thức mới.
+Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp.
+Rất vui được làm quen với mọi người.
+
+Sở thích:
+- Đọc sách
+- Chơi game
+- Nghe nhạc
+
+Kỹ năng:
+- Lập trình C++
+- Lập trình Python
+- Sử dụng Git
