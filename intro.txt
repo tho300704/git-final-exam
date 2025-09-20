@@ -1,4 +1,5 @@
 Hello, this is Thọ
+Xin chào, tôi là Thọ
 Tôi là một sinh viên đam mê công nghệ.
 Tôi thích tìm tòi và học hỏi những kiến thức mới.
 Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp.
@@ -20,3 +21,4 @@ Kế hoạch học tập:
 - Thực hành các dự án nhỏ để củng cố kiến thức.
 - Tìm hiểu sâu hơn về cấu trúc dữ liệu và giải thuật.
 - Cải thiện kỹ năng tiếng Anh chuyên ngành.
+Conflict resolved on 20/09/2025
